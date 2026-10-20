@@ -1,0 +1,8 @@
+/data/*
+!/data/.gitkeep
+/docs/legacy-backup/
+/docs/preview.png
+*.tmp
+*.log
+.env
+.env.*
